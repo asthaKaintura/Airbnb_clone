@@ -14,6 +14,21 @@ A full-stack property listing web application built using Node.js, Express.js, M
 - Server-side Validation
 - MVC Architecture
 
+## Screenshots
+
+### Home Page
+![Home Page](Screenshots/Home_page.png)
+
+### Listing Details
+![Listing Details](Screenshots/Listing_detail.png)
+
+### Login Page
+![Login Page](Screenshots/Login_page.png)  
+
+### Create Listing
+![Create Listing](Screenshots/Create_listing.png)  
+
+
 ## Tech Stack
 
 - Node.js
